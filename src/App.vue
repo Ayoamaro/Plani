@@ -1,15 +1,22 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { RouterLink, RouterView } from "vue-router";
+</script>
 
 <template>
-  <main>
-    <h1>Plani</h1>
-    <p>Organiza tu semana, a tu ritmo.</p>
-  </main>
-</template>
+  <div>
+    <header>
+      <div>
+        <div>Plani</div>
 
-<style scoped>
-main {
-  font-family: system-ui;
-  padding: 2rem;
-}
-</style>
+        <nav>
+          <RouterLink to="/board">Tablero</RouterLink>
+          <RouterLink to="/progress">Progreso</RouterLink>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <RouterView />
+    </main>
+  </div>
+</template>
