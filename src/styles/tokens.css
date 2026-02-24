@@ -1,0 +1,28 @@
+:root {
+  /* Backgrounds */
+  --bg: #f6f7fb;
+  --surface: #ffffff;
+  --surface-2: #f2f4f8;
+
+  /* Text */
+  --text: #0f172a;
+  --muted: rgba(15, 23, 42, 0.6);
+
+  /* Borders */
+  --border: rgba(15, 23, 42, 0.1);
+
+  /* Brand */
+  --primary: #4f46e5;
+  --primary-fg: #ffffff;
+
+  /* States */
+  --danger: #ef4444;
+
+  /* Shape */
+  --radius-xl: 16px;
+  --radius-2xl: 22px;
+
+  /* Shadows */
+  --shadow-soft: 0 10px 24px rgba(15, 23, 42, 0.06);
+  --shadow-card: 0 14px 30px rgba(15, 23, 42, 0.08);
+}
