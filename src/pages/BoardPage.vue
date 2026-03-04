@@ -4,7 +4,7 @@ import TicketDetailsModal from "../components/Ticket/TicketDetailsModal.vue";
 </script>
 
 <template>
-  <div class="page">
+  <div class="space-y-6">
     <BoardView />
     <TicketDetailsModal />
   </div>
