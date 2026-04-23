@@ -13,7 +13,7 @@
   </p>
 
 <p align="center">
-    <a href="https://plani-board.netlify.app/board">Live Demo</a>
+    <a href="https://plani-board.netlify.app/">Live Demo</a>
     <span>&nbsp;&nbsp;✦&nbsp;&nbsp;</span>
     <a href="#-introduction">Introduction</a>
     <span>&nbsp;&nbsp;✦&nbsp;&nbsp;</span>
