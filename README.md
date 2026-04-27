@@ -2,7 +2,7 @@
   <a href="https://plani-board.netlify.app/board">
     <img
       src="docs/images/logo.png"
-      alt="Plani Logo"
+      alt="Plani Logo Image"
     />
   </a>
   <p />
