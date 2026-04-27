@@ -3,7 +3,7 @@ name: Deploy Plani to Netlify
 on:
   push:
     branches:
-      - main
+      - master
 
 permissions:
   contents: read
